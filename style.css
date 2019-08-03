@@ -1,0 +1,14 @@
+.header{
+	padding: 18px;
+	margin-top: 25px;
+	margin-left: 35px;
+	
+}
+.info{
+	float:right;
+	margin-top:-12%;
+	margin-left:0px;
+	margin-right: 30px;
+	font-size: 17px;
+	font-weight:30px;
+}
